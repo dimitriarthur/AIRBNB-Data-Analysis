@@ -3,7 +3,7 @@
 
 ### Author: Arthur Dimitri
 
-### * <a href="https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data" target="_blank">Kaggle AirBnB Dataset </a>
+* <a href="https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data" target="_blank">Kaggle AirBnB Dataset </a>
 
 ### Shortcuts 
 
