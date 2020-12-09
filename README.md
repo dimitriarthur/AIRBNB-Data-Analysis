@@ -9,3 +9,11 @@
 * <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/Data%20Engineering%20Artifacts" target="_blank">Data Engineering Artifacts</a>
 * <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/QA%20Artifacts" target="_blank">QA Artifacts</a>
 * <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/ML%20Experimentation" target="_blank">ML Artifacts</a>
+
+
+### Overview
+
+Airbnb is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences since 2008. NYC is the most populous city in the United States and also one of the most popular tourism and business place in the world. The data contains listing activity and metrics. 
+
+The main objective for the analysis is to understand how different aspects influence the price, such as the location, reviews, and what makes a host more or less popular.
+
