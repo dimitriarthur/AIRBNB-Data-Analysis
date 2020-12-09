@@ -1,7 +1,9 @@
-# AIRBNB-Data-Analysis
+# AIRBNB-Data-Analysis and Price Prediction
 <img src="https://vidacigana.com/wp-content/uploads/2018/06/como-funciona-airbnb-1.jpg" width="800px">
 
 ### Author: Arthur Dimitri
+
+### * <a href="https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data"_blank">Kaggle AirBnB Dataset </a>
 
 ### Shortcuts 
 
