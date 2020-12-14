@@ -136,6 +136,8 @@ We can see that:
 
 * <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/ML%20Experimentation" target="_blank"> Full ML Experimentations</a>
 
+As one can see, the GBT model performed slighlty better than the RF Model. Also, we can see that the text features, in both cases, helped the model to perform better than without the BOW features. This makes sense, since, from the previous analysis of the most frequent words, we can see that there is a clear relation between some words and the cheapest and most expensive listings, so it might have helped the model making better decisions.
+
 <table class="tg">
 <thead>
   <tr>
