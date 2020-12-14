@@ -37,3 +37,14 @@ From this we can see that there are three types of rooms: Entire Home/Apt, Priva
 ### Minimum Nights
 Most of the hosts require 20~35 days of staying. This could be related to the high number of entire home/apt and private rooms on the listings.
 <img src="https://drive.google.com/uc?id=1pyygA7U4d0Pe32Ka-XCPfXX_XqLCwteJ">
+
+### Price Analysis
+The price paid for each location lies between 0 and 300 dolars, mostly. We can see that higher prices are way less frequent on the listings, specially above a thousand dollars.
+
+<img src="https://drive.google.com/uc?id=1yPHp26QZW0nQHtMDslHAdpab3N9n4gww">
+
+
+### Number of Reviews
+Most of the hosts are kind of unknown, having few reviews, with 0 to 50 being the most frequent range.
+
+<img src="https://drive.google.com/uc?id=1j9-Q2WdQbFJnHOWG1Ly9h3HvdF0YQqj1">
