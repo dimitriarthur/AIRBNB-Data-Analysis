@@ -83,3 +83,29 @@ From the plots above we can see:
 <img src="https://drive.google.com/uc?id=1FbFFYkmX_FYfxPTF8hVod9MZUjY43ZHg">
 
 <img src="https://drive.google.com/uc?id=1Z2mzAw4MDqJZqx9vbdntBZGwUX2qF5oI">
+
+
+### Room Type Counting at Each Neighbourhood Group
+
+From these plots we can say:
+
+* People that stay in Manhattan tend to look for entire home/apt, which can also affect demand and increase prices
+* In Brooklyn and Queen, the demands for private rooms and entire rooms are close to each other.
+* Shared rooms are the least popular type on the listings.
+
+<img src="https://drive.google.com/uc?id=1uUoKvXSu2Ij1P2STRoMug7woED6RNnUn">
+
+
+### Room Type Average Price at Each Neighbourhood Group
+
+We can see that:
+
+* Entire room/apt avg price is higher for Manhattan and Brooklyn, respectively.
+* In Manhattan and Brooklyn, private rooms are in average more expensive than shared rooms.
+* In Queens Private Rooms and Shared Rooms have the almost the same average price
+
+<img src="https://drive.google.com/uc?id=1ww9t2YY0sUR02Yu0kXmT7AZVSyZMW9NE">
+
+### Description and Price Analysis
+
+<img src="https://drive.google.com/uc?id=1CyUs_GQ15s--4A3y5X7NW3p5StgqYu1f">
