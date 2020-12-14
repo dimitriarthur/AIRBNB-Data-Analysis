@@ -21,6 +21,9 @@ These are the main features on the dataset.
 
 # EDA
 
+* <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/Data%20Analysis%20Artifacts" target="_blank"> Full EDA Here</a>
+
+
 ## Univariate Analysis 
 
 ### Neighbourhood Group
@@ -113,6 +116,8 @@ We can see that:
 
 # Data Engineering
 
+* <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/Data%20Engineering%20Artifacts" target="_blank"> Full Data Engineering Here</a>
+
 ## Pipeline Description
 
 * MeanImputation: given a list of input columns, it fills the null values of an output column with the average value of the input grouping
@@ -122,3 +127,6 @@ We can see that:
 * cleanOutliers: takes an input column and a threshold, which determines the dataframe rows that satisfy the condition
 <img src="https://drive.google.com/uc?id=1Fl-80kElIgAOS2SB16IARf48zsKzpo25">
 
+### Pipeline Transformations - Quality Assurance 
+
+* <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/QA%20Artifacts" target="_blank"> Full Pipeline Transformation Tests</a>
