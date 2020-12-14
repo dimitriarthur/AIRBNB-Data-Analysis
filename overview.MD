@@ -69,3 +69,17 @@ We can see that:
 * There are a lot of outliers, that is, the price vary a lot in each neighbourhood group.
 
 <img src="https://drive.google.com/uc?id=1JpFZ7b1UEld4QHpdmpFvJYErXZgvnjbV">
+
+<img src="https://drive.google.com/uc?id=19lw-X3pYa3NWapNsYEJctiA6mr80Shdp">
+
+### Room Type and Price
+From the plots above we can see:
+
+* Entire home/apt has a consistent number of outliers. It means that the price variance on this one is really strong
+* The cheapest type of room is the shared room, followed by private rooms and entire rooms.
+* The mean price for entire rooms/apts is almost 4 times more expensive than shared rooms, and more than 2 times for private rooms.
+
+
+<img src="https://drive.google.com/uc?id=1FbFFYkmX_FYfxPTF8hVod9MZUjY43ZHg">
+
+<img src="https://drive.google.com/uc?id=1Z2mzAw4MDqJZqx9vbdntBZGwUX2qF5oI">
