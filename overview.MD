@@ -109,3 +109,16 @@ We can see that:
 ### Description and Price Analysis
 
 <img src="https://drive.google.com/uc?id=1CyUs_GQ15s--4A3y5X7NW3p5StgqYu1f">
+
+
+# Data Engineering
+
+## Pipeline Description
+
+* MeanImputation: given a list of input columns, it fills the null values of an output column with the average value of the input grouping
+* DropRows: given a list on input columns, this stage drops all the rows where there are null values
+* logTransform: takes an input column and apply a log transformation
+* cleanText: takes an input column and removes all the special characters from the text
+* cleanOutliers: takes an input column and a threshold, which determines the dataframe rows that satisfy the condition
+<img src="https://drive.google.com/uc?id=1Fl-80kElIgAOS2SB16IARf48zsKzpo25">
+
