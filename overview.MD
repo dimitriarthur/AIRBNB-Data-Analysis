@@ -133,3 +133,47 @@ We can see that:
 
 
 # Machine Learning Experimentation 
+
+* <a href="https://github.com/dimitriarthur/AIRBNB-Data-Analysis/tree/main/ML%20Experimentation" target="_blank"> Full ML Experimentations</a>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt"></th>
+    <th class="tg-7btt" colspan="2">R^2 Score</th>
+    <th class="tg-7btt" colspan="2">RMSE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Without Text Fts</td>
+    <td class="tg-c3ow">With Text Features</td>
+    <td class="tg-c3ow">Without Text Fts</td>
+    <td class="tg-c3ow">With Text Features</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">GBT Regressor</td>
+    <td class="tg-c3ow">0.554</td>
+    <td class="tg-c3ow">0.557</td>
+    <td class="tg-c3ow">0.18</td>
+    <td class="tg-c3ow">0.18</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Random Forest Regressor</td>
+    <td class="tg-c3ow">0.538</td>
+    <td class="tg-c3ow">0.547</td>
+    <td class="tg-c3ow">0.182</td>
+    <td class="tg-c3ow">0.181</td>
+  </tr>
+</tbody>
+</table>
