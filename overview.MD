@@ -48,3 +48,24 @@ The price paid for each location lies between 0 and 300 dolars, mostly. We can s
 Most of the hosts are kind of unknown, having few reviews, with 0 to 50 being the most frequent range.
 
 <img src="https://drive.google.com/uc?id=1j9-Q2WdQbFJnHOWG1Ly9h3HvdF0YQqj1">
+
+
+### Availability_365
+
+Most of the hosts are available during a short period of the year, from 0 to 50 days. The second most frequent period availability is next to 365 days, in other words the whole year
+
+<img src="https://drive.google.com/uc?id=1DtLXUoBFXn_DBzbtGyVcB-G6O-c6BAPc">
+
+
+## Bivariate Analysis
+
+### Popular Neighbourhood Groups and Price
+Here we are analyzing the neighbourhood groups that, together, represent 97% of the listings (Manhattan, Queens and Brooklyn).
+
+We can see that:
+
+* From the boxplots and barplots, Manhattan has the highest mean price, followed by Brooklyn and Queens.
+* Manhattan's mean price is almost the double of Queen's mean price
+* There are a lot of outliers, that is, the price vary a lot in each neighbourhood group.
+
+<img src="https://drive.google.com/uc?id=1JpFZ7b1UEld4QHpdmpFvJYErXZgvnjbV">
