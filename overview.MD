@@ -28,7 +28,6 @@ We can see that Manhattan, Brooklyn and Queens, respectively, have the most numb
 
 <img src="https://drive.google.com/uc?id=1zYGamH4F5RCRTUllbaSnZCyr0E_9-_zz">
 
-
 ### Room Type
 
 From this we can see that there are three types of rooms: Entire Home/Apt, Private Room, Shared Room. We can also see that there are a lot of missing values and weird labels. Entire home/apt represent more than a half of the listings. The second most frequent is the Private Room. Customers seem to prize for comfort and privacy, which can also be confirmed by the few number of listings with shared rooms.
@@ -37,5 +36,4 @@ From this we can see that there are three types of rooms: Entire Home/Apt, Priva
 
 ### Minimum Nights
 Most of the hosts require 20~35 days of staying. This could be related to the high number of entire home/apt and private rooms on the listings.
-
 <img src="https://drive.google.com/uc?id=1pyygA7U4d0Pe32Ka-XCPfXX_XqLCwteJ">
