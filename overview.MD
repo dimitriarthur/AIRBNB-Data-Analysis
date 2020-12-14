@@ -25,3 +25,5 @@ These are the main features on the dataset.
 
 ### Neighbourhood Group
 We can see that Manhattan, Brooklyn and Queens, respectively, have the most number of listings on NYC
+
+<img src="https://drive.google.com/uc?id=1zYGamH4F5RCRTUllbaSnZCyr0E_9-_zz">
