@@ -170,3 +170,32 @@ As one can see, the GBT model performed slighlty better than the RF Model. Also,
   </tr>
 </tbody>
 </table>
+
+# Conclusions
+
+### EDA Findings
+
+* Price vary mostly from 0 to 300 dolars.
+* The most frequent requirement for miminum_nights staying is 20~37. This variable doesn't seem to affect the price significantly.
+* Analyzing the availability during the year shows that: most of the hosts probably don't work with this formally (location available during few days during the whole year); there's a significant number of listings available during the whole year.
+* The more popular a property is, more reviews it has. Also, there's a tendency of price decreasing as the number of reviews increase.
+* Manhattan has the highest average prices between the top 93 (97% of the listings) and it is the most popular neighbourhood group on the dataset.
+* Entire home/apartment also have the highest mean price, followed by private rooms and shared rooms.
+* In Manhattan, customers tend to look more for entire home than private rooms. In Brooklyn, there's more private rooms on the listing than the entire ones. This pattern is also visible in Queens.
+
+### Model Findings
+
+* Text features seemed to have a significant impact on the model's performance. This was not really evident because we have applied some basic NLP preprocessing to the feature "name". 
+* The performance, in terms of R^2 score was not impressive and we might have not dealt properly with the outliers
+* We also are evaluating the model taking the log transformed values. Evaluating on the reverse transformed values might have an impact on both metrics 
+
+### Future Improvement
+
+* Apply deeper NLP transformations in order to extract the most relevant words from the "name" feature.
+* Analyze better the outliers of numerical features 
+* Apply min-max scaler in order to obtain non-skewed distributions on the numerical variables.
+* Use a deep learning architecture and test if it can map better the features relationship to the target. 
+* Experiment differente feature selection. We've only changed one feature (TextBOW) on the experimentations. There might be irrelevant features to the problem domain, which can also harm the model's performance. 
+
+* Entire home/apt have the highest mean price in each of the top 3 neighbourhood groups.
+* The room type and the neighbourhood group have a direct influence on the average price of the property.
